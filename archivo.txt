@@ -1,0 +1,3 @@
+En algunos casos podemos encontrar funciones lambda en muchas ocaciones
+podemos decir que este tipo de funciones son muy importantes
+lambda es parte
