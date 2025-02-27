@@ -7,7 +7,8 @@ def generar_pares(limite):
     mi_lista = []  # Creamos una lista vacía donde almacenaremos los pares.
 
     while num < limite:  # Mientras 'num' sea menor que el límite...
-        mi_lista.append(num * 2)  # Añadimos el doble de 'num' (un número par) a la lista.
+        if num % 2 == 0:
+            mi_lista.append(num * 2)  # Añadimos el doble de 'num' (un número par) a la lista.
         num = num + 1  # Incrementamos 'num' para continuar la secuencia.
 
     return mi_lista  # Devolvemos la lista completa de números pares.

@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "0dc220b0c9e4acaf",
+    "id": "da30b78ce7e79bd0",
     "type": "split",
     "children": [
       {
-        "id": "9faa7cdd4e7a59a9",
+        "id": "f5b30e30064dc6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "81f190300cee72a4",
+            "id": "23b0315a4ee04cc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-🧂 Qué es el \"Salt\" en Criptografía.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03-🧂 Qué es el \"Salt\" en Criptografía"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0595d169e1943e53",
+    "id": "b0365fcbcacc629b",
     "type": "split",
     "children": [
       {
-        "id": "5b270c1d12e62767",
+        "id": "c0a7a5b8c69285e6",
         "type": "tabs",
         "children": [
           {
-            "id": "9643b6947f39ed96",
+            "id": "753bac534b471d47",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "a7ec06711f13ccb1",
+            "id": "76dccf6ccc1923c2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "c81241ebbdb703fd",
+            "id": "b26708f3828618a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c1b5175c7d546899",
+    "id": "e32218fc927d6de9",
     "type": "split",
     "children": [
       {
-        "id": "aa49af209b4744b7",
+        "id": "b202ea9b950e8f49",
         "type": "tabs",
         "children": [
           {
-            "id": "87e4749ed1804f81",
+            "id": "96a95c5e5a4d2203",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Generadores.md",
+                "file": "03-🧂 Qué es el \"Salt\" en Criptografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-Generadores"
+              "title": "Backlinks for 03-🧂 Qué es el \"Salt\" en Criptografía"
             }
           },
           {
-            "id": "c9739fb1a8cd7015",
+            "id": "c62f61214c355cb8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Generadores.md",
+                "file": "03-🧂 Qué es el \"Salt\" en Criptografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00-Generadores"
+              "title": "Outgoing links from 03-🧂 Qué es el \"Salt\" en Criptografía"
             }
           },
           {
-            "id": "7bf97fea41e46bd4",
+            "id": "a49dc2d4c5d25a0e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "6fee8bbd589010dc",
+            "id": "da446a7c99a5649b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Generadores.md"
+                "file": "03-🧂 Qué es el \"Salt\" en Criptografía.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-Generadores"
+              "title": "Outline of 03-🧂 Qué es el \"Salt\" en Criptografía"
             }
           }
         ]
@@ -159,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81f190300cee72a4",
+  "active": "23b0315a4ee04cc2",
   "lastOpenFiles": [
-    "00-Generadores.md",
-    "01-Generadores.md",
-    "Welcome.md"
+    "02-🔍 Diferencias entre `hashlib` y `bcrypt` en Python.md",
+    "03-🧂 Qué es el \"Salt\" en Criptografía.md",
+    "01-🔐 Introducción a la Criptografía en Python.md"
   ]
 }

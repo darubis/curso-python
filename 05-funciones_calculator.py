@@ -9,11 +9,13 @@ def substract(a,b):
 
 
 def multiply(a,b):
-    return a * bin
+    return a * b
 
 
 def divide(a,b):
-    return a / b
+    if b > 0:
+        return a / b
+    return None
 
 
 def calculator():
