@@ -111,5 +111,3 @@ else:
 📌 **Conclusión:**  
 🔹 **Usa `bcrypt` para almacenar contraseñas** de forma segura en bases de datos.  
 🔹 **Usa `hashlib` para hashing rápido**, como verificación de integridad de archivos o autenticación con HMAC.
-
-Si tienes dudas o quieres un ejemplo más avanzado, dime. 🚀

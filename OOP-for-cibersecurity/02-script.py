@@ -11,8 +11,6 @@
 # 🚀 Ejemplo 1: Cómo Funciona bcrypt en Python
 
 
-# Ejemplo 1: Cómo Funciona bcrypt en Python
-
 import bcrypt
 
 # Crear una contraseña segura

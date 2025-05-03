@@ -78,5 +78,3 @@ Cada vez que ejecutemos esto, el hash será diferente porque `gensalt()` genera 
 |¿Protege contra tablas Rainbow?|❌ No|✅ Sí|
 |¿Es más seguro?|❌ No|✅ Sí|
 |¿Usado en `bcrypt`?|❌ No|✅ Sí (automático)|
-
-📌 **Conclusión**: **Siempre usa Salt** cuando trabajes con contraseñas. Si usas `bcrypt`, ya lo añade automáticamente. 🚀

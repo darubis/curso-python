@@ -125,5 +125,3 @@ print("Clave pública:", pub_key_pem.decode())
 ### 🎯 Conclusión
 
 La criptografía en Python es poderosa y esencial para la seguridad de la información. Dependiendo del caso de uso, podemos elegir entre **hashing, cifrado simétrico o asimétrico**.
-
-Si quieres profundizar más, dime qué aspecto te interesa más: ¿cifrado simétrico, asimétrico, hashing, o autenticación? 🔍

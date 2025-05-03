@@ -1,5 +1,5 @@
 Reporte de escaneo para 192.168.1.1
 ========================================
-Puerto 22: open (Servicio: ssh)
+Puerto 22: filtered (Servicio: ssh)
 Puerto 80: open (Servicio: http)
 Puerto 443: closed (Servicio: https)

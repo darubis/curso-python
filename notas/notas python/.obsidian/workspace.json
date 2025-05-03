@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9faa7cdd4e7a59a9",
+        "id": "809155a5facbce99",
         "type": "tabs",
         "children": [
           {
-            "id": "81f190300cee72a4",
+            "id": "824d7e27a5c30be9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c1b5175c7d546899",
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81f190300cee72a4",
+  "active": "824d7e27a5c30be9",
   "lastOpenFiles": [
-    "00-Generadores.md",
     "01-Generadores.md",
+    "00-Generadores.md",
     "Welcome.md"
   ]
 }
