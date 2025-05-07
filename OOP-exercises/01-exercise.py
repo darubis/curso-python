@@ -66,7 +66,7 @@ class PortScanner:
 # Ejemplo de uso
 if __name__ == "__main__":
     # Dirección IP a escanear
-    target_ip = "192.168.1.1"  # Cambiar a la dirección IP de tu red
+    target_ip = "192.168.0.1"  # Cambiar a la dirección IP de tu red
     ports_to_scan = [22, 80, 443]
 
     scanner = PortScanner(target_ip)

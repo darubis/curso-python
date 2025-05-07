@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "809155a5facbce99",
+        "id": "dff84b3280ec6c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "824d7e27a5c30be9",
+            "id": "b54f51b4cfa64901",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Generadores.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01-Generadores"
             }
           }
         ]
@@ -159,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "824d7e27a5c30be9",
+  "active": "b54f51b4cfa64901",
   "lastOpenFiles": [
-    "01-Generadores.md",
     "00-Generadores.md",
+    "01-Generadores.md",
     "Welcome.md"
   ]
 }
